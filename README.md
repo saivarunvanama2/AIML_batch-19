@@ -1,2 +1,3 @@
 # AIML_batch-19
-1.[assignment1](https://github.com/saivarunvanama2/AIML_batch-19/edit/main/README.md)
+
+[lab-1] [part-1] (https://github.com/saivarunvanama2/AIML_batch-19/blob/main/lab_1_part_1.ipynb)

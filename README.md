@@ -6,4 +6,6 @@
 
 [lab-2] (https://github.com/saivarunvanama2/AIML_batch-19/blob/main/assi_2.ipynb)
 
-[;ab-3] (https://github.com/saivarunvanama2/AIML_batch-19/blob/main/assi_3.ipynb)
+[lab-3] (https://github.com/saivarunvanama2/AIML_batch-19/blob/main/assi_3.ipynb)
+
+[lab-4] (https://github.com/saivarunvanama2/AIML_batch-19/blob/main/assi_4.ipynb)
